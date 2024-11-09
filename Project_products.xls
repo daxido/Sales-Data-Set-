@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Brand
+1,Product_1,Apparel,BrandC
+2,Product_2,Electronics,BrandC
+3,Product_3,Electronics,BrandA
+4,Product_4,Electronics,BrandC
+5,Product_5,Electronics,BrandA
+6,Product_6,Home Goods,BrandB
+7,Product_7,Electronics,BrandB
+8,Product_8,Home Goods,BrandB
+9,Product_9,Apparel,BrandA
+10,Product_10,Apparel,BrandC
+11,Product_11,Home Goods,BrandB
+12,Product_12,Apparel,BrandB
+13,Product_13,Apparel,BrandB
+14,Product_14,Electronics,BrandC
+15,Product_15,Electronics,BrandC
+16,Product_16,Electronics,BrandA
+17,Product_17,Home Goods,BrandB
+18,Product_18,Home Goods,BrandC
+19,Product_19,Apparel,BrandA
+20,Product_20,Electronics,BrandB
